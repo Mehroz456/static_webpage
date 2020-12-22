@@ -65,23 +65,23 @@ const Footer = () => {
                         </SocialLogo>
                         <WebsiteRights>Mula © {new Date().getFullYear()} All rights reserved. </WebsiteRights>
                         <SocialIcon>
-                            <SocialIconLink href="/" target="_blank"
+                            <SocialIconLink href="#" target="_blank"
                             aria-label="Facebook">
                                 <FaFacebook />
                             </SocialIconLink>
-                            <SocialIconLink href="/" target="_blank"
+                            <SocialIconLink href="#" target="_blank"
                             aria-label="Instagram">
                                 <FaInstagram />
                             </SocialIconLink>
-                            <SocialIconLink href="/" target="_blank"
+                            <SocialIconLink href="#" target="_blank"
                             aria-label="Youtube">
                                 <FaYoutube />
                             </SocialIconLink>
-                            <SocialIconLink href="/" target="_blank"
+                            <SocialIconLink href="#" target="_blank"
                             aria-label="Twitter">
                                 <FaTwitter />
                             </SocialIconLink>
-                            <SocialIconLink href="/" target="_blank"
+                            <SocialIconLink href="#" target="_blank"
                             aria-label="Linkedin">
                                 <FaLinkedin />
                             </SocialIconLink>
