@@ -11,9 +11,9 @@ export const HeroContainer = styled.div`
     padding: 0 30px;
     height: 800px;
     position: relative;
-    z-index: 1; 
+    z-index: 1 
 
-    &:before {
+    :before {
         content: '';
         position: absolute;
         top: 0;
@@ -23,7 +23,7 @@ export const HeroContainer = styled.div`
         background: linear-gradient(180deg, rgba(0,0,0,0.2) 0%,
         rgba(0,0,0,0.6) 100%), linear-gradient(180deg, rgba(0,0,0,0.2) 0%,
         transparent 100%);
-        z-index: 999;
+        z-index: 2;
     }
 `;
 
